@@ -3,8 +3,11 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+Hello, I am Neha - music lover, developer in process, devops in random state and automation engineer by profession. In my past time I sing, read, write & love to lend my listening ear.
+Meeting people to catch on their infective smile is something I would never miss.
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+Exploring world, exploring to be silent and calm will be my forever quest. You can check out my songs [here](soundcloud.com/neha-tandon-1) 
 
-This theme is made by me. You have a nice day. ♥
+This blog was developed with an intention to keep a track of my learnings and capture the randomness of moments experienced by me.
+
+Have a nice day. ♥
